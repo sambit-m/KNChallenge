@@ -1,2 +1,2 @@
 # KNChallenge
-1. Room
+1. Room persistence library
